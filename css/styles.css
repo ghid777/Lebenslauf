@@ -79,6 +79,10 @@ background-color: #66BFBF;
   text-decoration: underline;
 }
 
+.intro {
+width = 30%;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
